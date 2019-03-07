@@ -1,3 +1,3 @@
 # obj-file--sphere-
 
-This code constructs sphere shaped obj files for you. It ca =n be generalized for any arbitrary 3D volume by constructing a 3D numoy array other than a sphere. 
+This code constructs 3D objects(obj files) for you resulting from the slicing of a plane with a unit radius sphere located at the origin. It can be generalised fo any aribtrary radius sphere as long as the plane is at a normal distance lessser than the radius of the sphere. 
